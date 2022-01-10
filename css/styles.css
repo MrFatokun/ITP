@@ -39,5 +39,6 @@ text-align: right;
 }
 .experienced{
   text-align: justify;
-  margin: auto 10% auto 10%;
+  margin-left:10%;
+  margin-right: 10%;
 }
